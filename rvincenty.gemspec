@@ -24,6 +24,7 @@ Gem::Specification.new do |s|
      "Rakefile",
      "VERSION",
      "lib/rvincenty.rb",
+     "rvincenty.gemspec",
      "test/rvincenty_test.rb",
      "test/test_helper.rb"
   ]
