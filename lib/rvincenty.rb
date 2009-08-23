@@ -1,4 +1,7 @@
 module RVincenty
+  # Calculates the distance between two given points.
+  # A point is a two-elmeent array containing the points coordinates (Latitude and Longitutde)
+  # experessed as a floating point number.
   def self.distance(point_a, point_b)
     lat1, lon1 = point_a
     lat2, lon2 = point_b

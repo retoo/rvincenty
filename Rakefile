@@ -5,8 +5,9 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "rvincenty"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
+    gem.summary = "Pure Ruby implementation of Vincenty formula to calculate distance between two points"
+    gem.description = "rvincenty is a pure ruby implementation of Thaddeus Vincenty's formulae "
+                      "which caluclates the distance between two points on the earth's surface"
     gem.email = "reto@schuettel.ch"
     gem.homepage = "http://github.com/retoo/rvincenty"
     gem.authors = ["Reto Schüttel"]

@@ -6,8 +6,8 @@ and is therefore much accurate than other methods which assume a spherical Earth
 
 The code was heavily inspired by Chris Veness Javascript implementation and explainaitions:
 
-"Vincenty formula for distance between two Latitude/Longitude points"
-  http://www.movable-type.co.uk/scripts/latlong-vincenty.html
+
+[Vincenty formula for distance between two Latitude/Longitude points] http://www.movable-type.co.uk/scripts/latlong-vincenty.html
 
 == Usage
 
@@ -29,7 +29,7 @@ The code was heavily inspired by Chris Veness Javascript implementation and expl
   future version unintentionally.
 * Commit, do not mess with rakefile, version, or history.
   (if you want to have your own version, that is fine but
-   bump version in a commit by itself I can ignore when I pull)
+  bump version in a commit by itself I can ignore when I pull)
 * Send me a pull request. Bonus points for topic branches.
 
 == Copyright
