@@ -1,11 +1,8 @@
 = rvincenty
 
-This is a ruby implementation of the Vincenty's formulae to calcuclate the distance between
-two points on earth. The formula assumpts that the figure of the Earth is an oblate spheroid
-and is therefore much accurate than other methods which assume a spherical Earth.
+This is a ruby implementation of the Vincenty's formulae to calculate the distance between two points on earth. The formula assumes that the figure of the Earth is an oblate spheroid and is therefore much accurate than other methods which assume a spherical Earth.
 
-The code was heavily inspired by Chris Veness Javascript implementation and explainaitions:
-
+The code was heavily inspired by Chris Venues Javascript implementation and explanations:
 
 [Vincenty formula for distance between two Latitude/Longitude points] http://www.movable-type.co.uk/scripts/latlong-vincenty.html
 
