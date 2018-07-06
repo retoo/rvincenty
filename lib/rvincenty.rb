@@ -1,3 +1,5 @@
+require "rvincenty/version"
+
 module RVincenty
   # Calculates the distance between two given points.
   # A point is a two-elmeent array containing the points coordinates (Latitude and Longitutde)
