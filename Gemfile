@@ -1,8 +1,6 @@
-source :gemcutter
+source "https://rubygems.org"
 
-group :development do
-  gem "rake"
-  gem "bundler", "~> 1.0.0"
-  gem "jeweler", ">= 1.6.4"
-end
+git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
+# Specify your gem's dependencies in rvincenty.gemspec
+gemspec
